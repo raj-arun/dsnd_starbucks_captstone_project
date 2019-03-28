@@ -56,8 +56,10 @@ Starbucks_Project.ipynb : Jupyter notebook that performs the below tasks:
   - Combines offer portfolio, customer demographic, and customer transaction data
   - Generates training customer demographic data visualizations and computes summary statistics
   - Generates logistic regression, random forest, & SVM models
+
 LICENSE
   - Repository license file
+
 README.md
   - Markdown file that summarizes this repository
 
