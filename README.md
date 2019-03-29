@@ -27,16 +27,18 @@ The problem that I chose to solve was to build a model that, given a set of feat
   
 # Results Summary
 Model ranking based on training data accuracy
-RandomForestClassifier Model Accuracy: 0.738
-LogisticRegression Model Accuracy: 0.725
-SVM Model Accuracy: 0.722
+  - RandomForestClassifier Model Accuracy: 0.738
+  - LogisticRegression Model Accuracy: 0.725
+  - SVM Model Accuracy: 0.722
 
 Model ranking based on training data F1-score
-RandomForestClassifier model f1-score: 0.74
-LogisticRegression model f1-score: 0.73
-SVM Model f1-score: .72
+  - RandomForestClassifier model f1-score: 0.74
+  - LogisticRegression model f1-score: 0.73
+  - SVM Model f1-score: .72
 
 Results suggest that the random forest model has the best training data accuracy and F1-score
+
+You can read more about this project in my medium blog [here](https://medium.com/@s.arun.raj/analyzing-starbucks-offers-data-set-a28993ee9c5e).
 
 **Feature importance** refers to a numerical value that describes a feature's contribution to building a model that maximizes its evaluation metric. A random forest classifier is an example of a model that estimates feature importance during training. The below are the top features:
 
